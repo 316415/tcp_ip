@@ -1,0 +1,3 @@
+/home/ubuntu/project/socket/build/CMakeFiles/socket.dir
+/home/ubuntu/project/socket/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/project/socket/build/CMakeFiles/rebuild_cache.dir
